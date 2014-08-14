@@ -1,3 +1,6 @@
+[![GitHub version](http://img.shields.io/github/tag/mattpodwysocki/bingtranslator-node.svg)](https://github.com/mattpodwysocki/bingtranslator-node)
+[![NPM version](http://img.shields.io/npm/v/bingtranslator.svg)](https://npmjs.org/package/bingtranslator)
+
 Bing Translator API for Node.js
 ===============================
 
@@ -60,6 +63,7 @@ function translateCb(err, translated) {
   - [`breakSentences`](doc/breaksentences.md)
   - [`detect`](doc/detect.md)
   - [`detectArray`](doc/detectarray.md)
+  - [`getLanguageNames`](doc/getlanguagenames.md)
   - [`translate`](doc/translate.md)
   - [`translateArray`](doc/translatearray.md)
 
