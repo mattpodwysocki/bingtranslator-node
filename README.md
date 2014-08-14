@@ -58,7 +58,9 @@ function translateCb(err, translated) {
 
 - `translator`
   - [`detect`](doc/detect.md)
+  - [`detectArray`](doc/detectarray.md)
   - [`translate`](doc/translate.md)
+  - [`translateArray`](doc/translatearray.md)
 
 ## License ##
 

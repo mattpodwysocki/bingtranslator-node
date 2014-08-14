@@ -2,5 +2,7 @@
 
 module.exports = {
   detect: require('./lib/detect'),
-  translate: require('./lib/translate')
+  detectArray: require('./lib/detectarray'),
+  translate: require('./lib/translate'),
+  translateArray: require('./lib/translatearray.js')
 };
