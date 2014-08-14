@@ -10,14 +10,14 @@ There are a number of ways to get started with the Bing Translator API for Node.
 ### Download the Source ###
 
 To download the source, type in the following:
-
-    git clone https://github.com/mattpodwysocki/bingtranslator-node.git
-    cd ./bingtranslator-node
-
+```bash
+git clone https://github.com/mattpodwysocki/bingtranslator-node.git
+cd ./bingtranslator-node
+```
 ### Installing with [NPM](https://npmjs.org/) ###
-
-  npm install bingtranslator
-
+```bash
+npm install bingtranslator
+```
 ## Example ##
 
 Below is an example of using detect and translate to take some arbitrary text and translate it to English.
@@ -57,6 +57,7 @@ function translateCb(err, translated) {
 ## Documentation ##
 
 - `translator`
+  - [`breakSentences`](doc/breaksentences.md)
   - [`detect`](doc/detect.md)
   - [`detectArray`](doc/detectarray.md)
   - [`translate`](doc/translate.md)

@@ -12,7 +12,7 @@ Translates a text string from one language to another.
 4. `to` *(`String`)*: A string representing the language code to translate the text into.
 5. `callback` *(`Function`)*: A function with the following parameters.
   - `err` *(`Error`)*: An error if one occurred, else null.
-  - `translated` *(`String`)*: a TranslateArrayResponse array. Each TranslateArrayResponse has the following elements:
+  - `translated` *(`Object`)*: a TranslateArrayResponse array. Each TranslateArrayResponse has the following elements:
     - Error: Indicates an error if one has occurred. Otherwise set to null.
     - OriginalSentenceLengths: An array of integers indicating the length of each sentence in the original source text. The length of the array indicates the number of sentences.
     - TranslatedText: The translated text.
