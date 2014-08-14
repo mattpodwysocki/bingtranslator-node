@@ -5,7 +5,7 @@ This project is an implementation [Bing Translator](http://www.bing.com/translat
 
 ## Getting Started ##
 
-There are a number of ways to get started with the HTML DOM Bindings for RxJS.  The files are available on [cdnjs](http://cdnjs.com/) and [jsDelivr](http://www.jsdelivr.com/#!rxjs-dom).
+There are a number of ways to get started with the Bing Translator API for Node.js.
 
 ### Download the Source ###
 
