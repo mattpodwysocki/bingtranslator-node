@@ -64,6 +64,9 @@ function translateCb(err, translated) {
   - [`detect`](doc/detect.md)
   - [`detectArray`](doc/detectarray.md)
   - [`getLanguageNames`](doc/getlanguagenames.md)
+  - [`getLanguagesForSpeech`](doc/getlanguagesforspeech.md)
+  - [`getLanguagesForTranslate`](doc/getlanguagesfortranslate.md)
+  - [`speak`](doc/speak.md)
   - [`translate`](doc/translate.md)
   - [`translateArray`](doc/translatearray.md)
 
