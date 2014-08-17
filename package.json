@@ -1,6 +1,6 @@
 {
   "name": "bingtranslator",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Node.js API for the Bing Translator",
   "main": "index.js",
   "scripts": {
